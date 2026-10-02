@@ -1,0 +1,20 @@
+[server]
+headless = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#4F46E5"
+font = "sans-serif"
+baseRadius = "medium"
+
+[theme.light]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F5FB"
+textColor = "#1F2937"
+
+[theme.dark]
+backgroundColor = "#0F1117"
+secondaryBackgroundColor = "#1B1E2B"
+textColor = "#E5E7EB"
